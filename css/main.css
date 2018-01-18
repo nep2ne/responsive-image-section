@@ -85,7 +85,7 @@ a:hover {
   }
 
   h1 {
-    padding-top: 0;
+    padding-top: 1em;
   }
 
   p {
@@ -120,7 +120,7 @@ a:hover {
 
   .image {
     margin-top: 0;
-    padding-top: .5em;
+    padding-top: .75em;
   }
 }
 
