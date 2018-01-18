@@ -111,6 +111,7 @@ a:hover {
 
   section {
     padding-top: 4em;
+    padding-left: .75em;
     vertical-align: top;
   }
 
@@ -120,7 +121,7 @@ a:hover {
 
   .image {
     margin-top: 0;
-    padding-top: .75em;
+    padding-top: 1em;
   }
 }
 
@@ -136,6 +137,6 @@ a:hover {
   }
 
   section {
-    padding-top: 5em;
+    padding-top: .25em;
   }
 }
