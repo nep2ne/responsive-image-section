@@ -17,3 +17,40 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+section {
+  margin-top: 0;
+  padding: 1rem;
+}
+
+h1 {
+  padding: 1rem;
+  text-size: .75em;
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.4em;
+}
+
+a {
+  background-color: #555;
+  text-decoration: none;
+  color: #e2e2e2;
+  border-radius: 4px;
+  padding: 0.5em 0.75em;
+}
+
+.img-flex {
+  margin-top: .75em;
+  width: 100%;
+}
